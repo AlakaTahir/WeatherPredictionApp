@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherPrediction.Service/1.0.0": {
+        "dependencies": {
+          "WeatherPrediction.Model": "1.0.0"
+        },
+        "runtime": {
+          "WeatherPrediction.Service.dll": {}
+        }
+      },
+      "WeatherPrediction.Model/1.0.0": {
+        "runtime": {
+          "WeatherPrediction.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherPrediction.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherPrediction.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

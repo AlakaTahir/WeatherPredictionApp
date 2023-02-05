@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Migrations.deps.json
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Migrations.runtimeconfig.json
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Migrations.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Migrations.dll
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Migrations.pdb
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Model.dll
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\bin\Debug\netcoreapp3.1\WeatherPrediction.Model.pdb
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.dll
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.pdb
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Migration\obj\Debug\netcoreapp3.1\WeatherPrediction.Migrations.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\bin\Debug\netcoreapp3.1\WeatherPrediction.Model.deps.json
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\bin\Debug\netcoreapp3.1\WeatherPrediction.Model.dll
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\bin\Debug\netcoreapp3.1\WeatherPrediction.Model.pdb
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.dll
+C:\Users\HP\Desktop\Practice\Weather PredictionApp\WeatherPrediction.Model\obj\Debug\netcoreapp3.1\WeatherPrediction.Model.pdb
